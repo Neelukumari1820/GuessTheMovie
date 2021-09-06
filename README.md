@@ -1,2 +1,2 @@
 # GuessTheMovie
-With some provided hints you have to guess the Bollywood movies name 
+This is a simple fun game made with tkinter .One has to guess the bollywood movies name with the help of provided hints. 
